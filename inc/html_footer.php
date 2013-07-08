@@ -8,7 +8,7 @@
   <script src="<?php bloginfo('stylesheet_directory'); ?>/js/jquery.royalslider.min.js"></script>
   <script src="<?php bloginfo('stylesheet_directory'); ?>/js/dh-ck.js"></script>
 
-
+<!-- testing -->
   
   <script src="<?php bloginfo('stylesheet_directory'); ?>/js/foundation/foundation.js"></script>
   
